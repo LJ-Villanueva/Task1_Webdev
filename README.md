@@ -1,2 +1,2 @@
 # Task1_Webdev
-Villanueva_lance_Jian_O_Web Development Task 1 (Individual)
+Villanueva_lance_Jian_O_BSIT_3_5_Web_Development_Task_1(Individual)
