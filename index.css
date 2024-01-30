@@ -1,0 +1,114 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f2f2f2;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-size: medium;
+}
+
+body header {
+    background-color: #fff;
+    border-bottom: 65px solid #4caf50;
+    padding: 0px;
+    width: 116.5%;
+    margin: 0;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+body footer {
+    background-color: #fff;
+    border-bottom: 65px solid #4caf50;
+    padding: 0px;
+    width: 116.5%;
+    margin: 0;
+    margin-bottom: -50px;
+    margin-left: -50px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 25px;
+}
+
+h4 {
+    font-size: x-large;
+    text-align: center;
+}
+
+form {
+    background-color: #B0E0E6;
+    padding: 50px;
+    border-radius: 0px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 50%;
+    max-width: 600px;
+}
+input[type="email"] {
+    width: 40%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+input[type="Fullname"] {
+    width: 40%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="Age"]{
+    width: 10%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+input[type="number"]{
+    width: 25%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="date"]{
+    width: 25%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+select {
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
